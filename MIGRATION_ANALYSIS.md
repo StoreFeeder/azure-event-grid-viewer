@@ -42,7 +42,8 @@ If needed, the migration can be reverted by:
 ## Testing
 
 - Build: ✅ Passed
-- Tests: Run `dotnet test` to verify
+- Tests: ✅ Automated tests executed
+- ⚠️ Manual verification and QA testing required before production deployment
 
 ---
 
